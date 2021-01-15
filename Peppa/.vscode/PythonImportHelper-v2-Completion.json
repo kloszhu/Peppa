@@ -1,0 +1,1800 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Header",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "api.v1.database",
+        "description": "api.v1.database",
+        "isExtraImport": true,
+        "detail": "api.v1.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "api.v1.database",
+        "description": "api.v1.database",
+        "isExtraImport": true,
+        "detail": "api.v1.database",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "api.v1.database",
+        "description": "api.v1.database",
+        "isExtraImport": true,
+        "detail": "api.v1.database",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "isExtraImport": true,
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "isExtraImport": true,
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "GoodsInfo",
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "isExtraImport": true,
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "isExtraImport": true,
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenPayload",
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "isExtraImport": true,
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "response_code",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "response_code",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "custom_exc",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "response_code",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "response_code",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "custom_exc",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "INI",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "uINI",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "extensions",
+        "description": "extensions",
+        "isExtraImport": true,
+        "detail": "extensions",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Generator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "setting",
+        "description": "setting",
+        "isExtraImport": true,
+        "detail": "setting",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "setting",
+        "description": "setting",
+        "isExtraImport": true,
+        "detail": "setting",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "setting",
+        "description": "setting",
+        "isExtraImport": true,
+        "detail": "setting",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "setting",
+        "description": "setting",
+        "isExtraImport": true,
+        "detail": "setting",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "setting",
+        "description": "setting",
+        "isExtraImport": true,
+        "detail": "setting",
+        "documentation": {}
+    },
+    {
+        "label": "security",
+        "importPath": "core",
+        "description": "core",
+        "isExtraImport": true,
+        "detail": "core",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "conint",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "AnyHttpUrl",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "IPvAnyAddress",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "AnyHttpUrl",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "IPvAnyAddress",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "importPath": "api.v1.home",
+        "description": "api.v1.home",
+        "isExtraImport": true,
+        "detail": "api.v1.home",
+        "documentation": {}
+    },
+    {
+        "label": "home_backup",
+        "importPath": "api.v1.home",
+        "description": "api.v1.home",
+        "isExtraImport": true,
+        "detail": "api.v1.home",
+        "documentation": {}
+    },
+    {
+        "label": "goods",
+        "importPath": "api.v1.goods",
+        "description": "api.v1.goods",
+        "isExtraImport": true,
+        "detail": "api.v1.goods",
+        "documentation": {}
+    },
+    {
+        "label": "goods_backup",
+        "importPath": "api.v1.goods",
+        "description": "api.v1.goods",
+        "isExtraImport": true,
+        "detail": "api.v1.goods",
+        "documentation": {}
+    },
+    {
+        "label": "category",
+        "importPath": "api.v1.category",
+        "description": "api.v1.category",
+        "isExtraImport": true,
+        "detail": "api.v1.category",
+        "documentation": {}
+    },
+    {
+        "label": "category_backup",
+        "importPath": "api.v1.category",
+        "description": "api.v1.category",
+        "isExtraImport": true,
+        "detail": "api.v1.category",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "importPath": "api.v1.profile",
+        "description": "api.v1.profile",
+        "isExtraImport": true,
+        "detail": "api.v1.profile",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "jsonable_encoder",
+        "importPath": "fastapi.encoders",
+        "description": "fastapi.encoders",
+        "isExtraImport": true,
+        "detail": "fastapi.encoders",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "RequestValidationError",
+        "importPath": "fastapi.exceptions",
+        "description": "fastapi.exceptions",
+        "isExtraImport": true,
+        "detail": "fastapi.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "api_v1",
+        "importPath": "api.v1",
+        "description": "api.v1",
+        "isExtraImport": true,
+        "detail": "api.v1",
+        "documentation": {}
+    },
+    {
+        "label": "PostParamsError",
+        "importPath": "utils.custom_exc",
+        "description": "utils.custom_exc",
+        "isExtraImport": true,
+        "detail": "utils.custom_exc",
+        "documentation": {}
+    },
+    {
+        "label": "TokenAuthError",
+        "importPath": "utils.custom_exc",
+        "description": "utils.custom_exc",
+        "isExtraImport": true,
+        "detail": "utils.custom_exc",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "distutils.sysconfig",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "distutils.sysconfig",
+        "description": "distutils.sysconfig",
+        "detail": "distutils.sysconfig",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "loguru",
+        "description": "loguru",
+        "isExtraImport": true,
+        "detail": "loguru",
+        "documentation": {}
+    },
+    {
+        "label": "DataAccess",
+        "importPath": "utils.database.DataAccess",
+        "description": "utils.database.DataAccess",
+        "isExtraImport": true,
+        "detail": "utils.database.DataAccess",
+        "documentation": {}
+    },
+    {
+        "label": "dao",
+        "importPath": "utils.database.DataAccess",
+        "description": "utils.database.DataAccess",
+        "isExtraImport": true,
+        "detail": "utils.database.DataAccess",
+        "documentation": {}
+    },
+    {
+        "label": "configuration",
+        "importPath": "utils.database",
+        "description": "utils.database",
+        "isExtraImport": true,
+        "detail": "utils.database",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "pymysql",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymysql",
+        "description": "pymysql",
+        "detail": "pymysql",
+        "documentation": {}
+    },
+    {
+        "label": "pymysql.cursors",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymysql.cursors",
+        "description": "pymysql.cursors",
+        "detail": "pymysql.cursors",
+        "documentation": {}
+    },
+    {
+        "label": "dbConfig",
+        "importPath": "utils.database.configuration",
+        "description": "utils.database.configuration",
+        "isExtraImport": true,
+        "detail": "utils.database.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "configuration",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "configuration",
+        "description": "configuration",
+        "detail": "configuration",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app.utils.baseModel",
+        "description": "app.utils.baseModel",
+        "isExtraImport": true,
+        "detail": "app.utils.baseModel",
+        "documentation": {}
+    },
+    {
+        "label": "ConfigParser",
+        "importPath": "configparser",
+        "description": "configparser",
+        "isExtraImport": true,
+        "detail": "configparser",
+        "documentation": {}
+    },
+    {
+        "label": "uINI",
+        "importPath": "utils.uINI",
+        "description": "utils.uINI",
+        "isExtraImport": true,
+        "detail": "utils.uINI",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "importPath": "api",
+        "description": "api",
+        "isExtraImport": true,
+        "detail": "api",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.category.category",
+        "description": "api.v1.category.category",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/category\", summary=\"分类左边列表\")\nasync def get_category(db: Session = Depends(get_db)):\n    \"\"\"\n    :param db:\n    :return:\n    \"\"\"\n    sql = \"select cate_id,cate_name,cate_thumbnail from mall_goods_cate\"\n    goods_info = db.execute(sql)\n    info = goods_info.fetchall()",
+        "detail": "api.v1.category.category",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.category.category_backup",
+        "description": "api.v1.category.category_backup",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/category/backup\", summary=\"分类左边列表\")\nasync def get_category():\n    return {\n        \"code\": 200,\n        \"msg\": \"success\",\n        \"data\": [\n            {\n                \"cate_id\": 1,\n                \"cate_name\": \"女装\",",
+        "detail": "api.v1.category.category_backup",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.goods.goods",
+        "description": "api.v1.goods.goods",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/goods/detail\", summary=\"商品详情页信息，固定goodsId传123\")\nasync def goods_detail(*, db: Session = Depends(get_db), goods_info: GoodsInfo):\n    \"\"\"\n    商品详情页信息 \\n\n    goodsId 商品id 默认123 额 也只有123哈哈哈 \\n\n    :param: db\n    :param: goods_info\n    :return:\n    \"\"\"",
+        "detail": "api.v1.goods.goods",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.goods.goods_backup",
+        "description": "api.v1.goods.goods_backup",
+        "peekOfCode": "router = APIRouter()\n@router.post(\"/goods/detail/backup\", summary=\"商品详情,备份信息\")\nasync def goods_detail():\n    \"\"\"\n    商品详情页信息备份 \\n\n    :param: goodsId 商品id 默认123 额 也只有123哈哈哈 \\n\n    :return:\n    \"\"\"\n    return {\n        \"code\": 200,",
+        "detail": "api.v1.goods.goods_backup",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.home.home",
+        "description": "api.v1.home.home",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/home/banner\", summary=\"首页轮播图\")\nasync def home_banner(db: Session = Depends(get_db)):\n    \"\"\"\n    首页轮播图 \\n\n    :return: 轮播图banner link, image\n    \"\"\"\n    sql = \"select link,image from mall_banner order by id desc limit 10\"\n    banner_info = db.execute(sql)\n    banner_data = []",
+        "detail": "api.v1.home.home",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.home.home_backup",
+        "description": "api.v1.home.home_backup",
+        "peekOfCode": "router = APIRouter()\n@router.get(\"/home/banner/backup\", summary=\"路由中有backup的是相同路由备份信息\")\nasync def home_banner():\n    return {\n        \"code\": 200,\n        \"msg\": \"success\",\n        \"data\": [\n            {\n                \"link\": \"#\",\n                \"image\": \"https://s11.mogucdn.com/mlcdn/c45406/200607_5k0d4fik4647258ajiegibb3keaij_1125x390.jpg\"",
+        "detail": "api.v1.home.home_backup",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.v1.profile.profile",
+        "description": "api.v1.profile.profile",
+        "peekOfCode": "router = APIRouter()\noauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\n@router.post(\"/profile/login\", summary=\"登录\")\nasync def profile_login(user_info: UserLogin= Depends(oauth2_scheme)):\n    \"\"\"\n    登录 \\n\n    username admin \\n\n    password 12345 \\n\n    :param user_info:\n    :return:",
+        "detail": "api.v1.profile.profile",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "api.v1.profile.profile",
+        "description": "api.v1.profile.profile",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\n@router.post(\"/profile/login\", summary=\"登录\")\nasync def profile_login(user_info: UserLogin= Depends(oauth2_scheme)):\n    \"\"\"\n    登录 \\n\n    username admin \\n\n    password 12345 \\n\n    :param user_info:\n    :return:\n    \"\"\"",
+        "detail": "api.v1.profile.profile",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "api.v1.database",
+        "description": "api.v1.database",
+        "peekOfCode": "def get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:\n        db.close()",
+        "detail": "api.v1.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "api.v1.database",
+        "description": "api.v1.database",
+        "peekOfCode": "engine = create_engine(\n    config.SQLALCHEMY_DATABASE_URI\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:",
+        "detail": "api.v1.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "api.v1.database",
+        "description": "api.v1.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:\n        db.close()",
+        "detail": "api.v1.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "api.v1.database",
+        "description": "api.v1.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:\n        db.close()",
+        "detail": "api.v1.database",
+        "documentation": {}
+    },
+    {
+        "label": "PageBase",
+        "kind": 6,
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "peekOfCode": "class PageBase(BaseModel):\n    \"\"\"\n    page: int 当前页 默认 1\n    pageSize: int 当前分页长度 默认 10\n    \"\"\"\n    page: int = 1\n    pageSize: conint(le=50) = 10  # 限制最大长度小于等于 50 默认10\nclass HomeGoods(PageBase):\n    tabId: int = 0\nclass Category(PageBase):",
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "HomeGoods",
+        "kind": 6,
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "peekOfCode": "class HomeGoods(PageBase):\n    tabId: int = 0\nclass Category(PageBase):\n    \"\"\"\n    商品分类查询 \\n\n    tabId: 分类的tabId \\n\n    \"\"\"\n    tabId: int\nclass GoodsInfo(BaseModel):\n    \"\"\"",
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "peekOfCode": "class Category(PageBase):\n    \"\"\"\n    商品分类查询 \\n\n    tabId: 分类的tabId \\n\n    \"\"\"\n    tabId: int\nclass GoodsInfo(BaseModel):\n    \"\"\"\n    商品详情Id  \\n\n    goodsId: 默认 为123 只能传123 \\n",
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "GoodsInfo",
+        "kind": 6,
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "peekOfCode": "class GoodsInfo(BaseModel):\n    \"\"\"\n    商品详情Id  \\n\n    goodsId: 默认 为123 只能传123 \\n\n    \"\"\"\n    goodsId: int = 123\nclass UserLogin(BaseModel):\n    \"\"\"\n    用户登录\n    \"\"\"",
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "peekOfCode": "class UserLogin(BaseModel):\n    \"\"\"\n    用户登录\n    \"\"\"\n    username: str\n    password: str\nclass TokenPayload(BaseModel):\n    sub: Optional[int] = None",
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "TokenPayload",
+        "kind": 6,
+        "importPath": "api.v1.schemas",
+        "description": "api.v1.schemas",
+        "peekOfCode": "class TokenPayload(BaseModel):\n    sub: Optional[int] = None",
+        "detail": "api.v1.schemas",
+        "documentation": {}
+    },
+    {
+        "label": "api_v1",
+        "kind": 5,
+        "importPath": "api.v1.__init__",
+        "description": "api.v1.__init__",
+        "peekOfCode": "api_v1 = APIRouter()\napi_v1.include_router(home.router, tags=[\"首页API\"])\napi_v1.include_router(goods.router, tags=[\"商品API\"])\napi_v1.include_router(category.router, tags=[\"分类API\"])\napi_v1.include_router(profile.router, tags=[\"个人信息\"])\napi_v1.include_router(home_backup.router, tags=[\"备份API\"])\napi_v1.include_router(goods_backup.router, tags=[\"备份API\"])\napi_v1.include_router(category_backup.router, tags=[\"备份API\"])",
+        "detail": "api.v1.__init__",
+        "documentation": {}
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "api.__init__",
+        "description": "api.__init__",
+        "peekOfCode": "def create_app():\n    app = FastAPI(\n        title=\"FastAPI\",\n        description=\"更多信息查看 https://www.charmcode.cn/article/2020-06-08_vue_mall_api \",\n        version=\"0.1.1\",\n        docs_url=config.DOCS_URL,\n        openapi_url=config.OPENAPI_URL,\n        redoc_url=config.REDOC_URL,\n        openapi_tags=tags_metadata\n    )",
+        "detail": "api.__init__",
+        "documentation": {}
+    },
+    {
+        "label": "register_exception",
+        "kind": 2,
+        "importPath": "api.__init__",
+        "description": "api.__init__",
+        "peekOfCode": "def register_exception(app: FastAPI):\n    \"\"\"\n    全局异常捕获\n    :param app:\n    :return:\n    \"\"\"\n    # 捕获自定义异常\n    @app.exception_handler(PostParamsError)\n    async def query_params_exception_handler(request: Request, exc: PostParamsError):\n        \"\"\"",
+        "detail": "api.__init__",
+        "documentation": {}
+    },
+    {
+        "label": "register_cors",
+        "kind": 2,
+        "importPath": "api.__init__",
+        "description": "api.__init__",
+        "peekOfCode": "def register_cors(app: FastAPI):\n    \"\"\"\n    支持跨域\n    貌似发现了一个bug\n    https://github.com/tiangolo/fastapi/issues/133\n    :param app:\n    :return:\n    \"\"\"\n    app.add_middleware(\n        CORSMiddleware,",
+        "detail": "api.__init__",
+        "documentation": {}
+    },
+    {
+        "label": "register_middleware",
+        "kind": 2,
+        "importPath": "api.__init__",
+        "description": "api.__init__",
+        "peekOfCode": "def register_middleware(app: FastAPI):\n    \"\"\"\n    请求响应拦截 hook\n    https://fastapi.tiangolo.com/tutorial/middleware/\n    :param app:\n    :return:\n    \"\"\"\n    @app.middleware(\"http\")\n    async def logger_request(request: Request, call_next):\n        # https://stackoverflow.com/questions/60098005/fastapi-starlette-get-client-real-ip",
+        "detail": "api.__init__",
+        "documentation": {}
+    },
+    {
+        "label": "tags_metadata",
+        "kind": 5,
+        "importPath": "api.__init__",
+        "description": "api.__init__",
+        "peekOfCode": "tags_metadata = [\n    {\n        \"name\": \"首页API\",\n        \"description\": \"商品首页数据API\",\n    },\n]\ndef create_app():\n    app = FastAPI(\n        title=\"FastAPI\",\n        description=\"更多信息查看 https://www.charmcode.cn/article/2020-06-08_vue_mall_api \",",
+        "detail": "api.__init__",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "core.security",
+        "description": "core.security",
+        "peekOfCode": "def create_access_token(\n    subject: Union[str, Any], expires_delta: timedelta = None\n) -> str:\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(\n            minutes=config.ACCESS_TOKEN_EXPIRE_MINUTES\n        )\n    to_encode = {\"exp\": expire, \"sub\": str(subject)}",
+        "detail": "core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "core.security",
+        "description": "core.security",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    return pwd_context.verify(plain_password, hashed_password)\ndef get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef check_jwt_token(\n     token: Optional[str] = Header(None)\n) -> Union[str, Any]:\n    \"\"\"\n    只解析验证token\n    :param token:",
+        "detail": "core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "core.security",
+        "description": "core.security",
+        "peekOfCode": "def get_password_hash(password: str) -> str:\n    return pwd_context.hash(password)\ndef check_jwt_token(\n     token: Optional[str] = Header(None)\n) -> Union[str, Any]:\n    \"\"\"\n    只解析验证token\n    :param token:\n    :return:\n    \"\"\"",
+        "detail": "core.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_jwt_token",
+        "kind": 2,
+        "importPath": "core.security",
+        "description": "core.security",
+        "peekOfCode": "def check_jwt_token(\n     token: Optional[str] = Header(None)\n) -> Union[str, Any]:\n    \"\"\"\n    只解析验证token\n    :param token:\n    :return:\n    \"\"\"\n    try:\n        payload = jwt.decode(",
+        "detail": "core.security",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "core.security",
+        "description": "core.security",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"bcrypt\"], deprecated=\"auto\")\nALGORITHM = \"HS256\"\ndef create_access_token(\n    subject: Union[str, Any], expires_delta: timedelta = None\n) -> str:\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(\n            minutes=config.ACCESS_TOKEN_EXPIRE_MINUTES",
+        "detail": "core.security",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "core.security",
+        "description": "core.security",
+        "peekOfCode": "ALGORITHM = \"HS256\"\ndef create_access_token(\n    subject: Union[str, Any], expires_delta: timedelta = None\n) -> str:\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(\n            minutes=config.ACCESS_TOKEN_EXPIRE_MINUTES\n        )",
+        "detail": "core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "database.database",
+        "description": "database.database",
+        "peekOfCode": "def get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:\n        db.close()",
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "database.database",
+        "description": "database.database",
+        "peekOfCode": "engine = create_engine(\n    config.SQLALCHEMY_DATABASE_URI\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:",
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "database.database",
+        "description": "database.database",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:\n        db.close()",
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "database.database",
+        "description": "database.database",
+        "peekOfCode": "Base = declarative_base()\ndef get_db() -> Generator:\n    try:\n        db = SessionLocal()\n        yield db\n    finally:\n        db.close()",
+        "detail": "database.database",
+        "documentation": {}
+    },
+    {
+        "label": "Tee",
+        "kind": 6,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "class Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass\n        tee_f.write(what)",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "CopyTo",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def CopyTo(desc, src, dest):\n    import win32api, win32con\n    while 1:\n        try:\n            win32api.CopyFile(src, dest, 0)\n            return\n        except win32api.error as details:\n            if details.winerror==5: # access denied - user not admin.\n                raise\n            if silent:",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "LoadSystemModule",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def LoadSystemModule(lib_dir, modname):\n    # See if this is a debug build.\n    import importlib.util, importlib.machinery\n    suffix = '_d' if '_d.pyd' in importlib.machinery.EXTENSION_SUFFIXES else ''\n    filename = \"%s%d%d%s.dll\" % \\\n               (modname, sys.version_info[0], sys.version_info[1], suffix)\n    filename = os.path.join(lib_dir, \"pywin32_system32\", filename)\n    loader = importlib.machinery.ExtensionFileLoader(modname, filename)\n    spec = importlib.machinery.ModuleSpec(name=modname, loader=loader, origin=filename)\n    mod = importlib.util.module_from_spec(spec)",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "SetPyKeyVal",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def SetPyKeyVal(key_name, value_name, value):\n    root_hkey = get_root_hkey()\n    root_key = winreg.OpenKey(root_hkey, root_key_name)\n    try:\n        my_key = winreg.CreateKey(root_key, key_name)\n        try:\n            winreg.SetValueEx(my_key, value_name, 0, winreg.REG_SZ, value)\n        finally:\n            my_key.Close()\n    finally:",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterCOMObjects",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterCOMObjects(register = 1):\n    import win32com.server.register\n    if register:\n        func = win32com.server.register.RegisterClasses\n    else:\n        func = win32com.server.register.UnregisterClasses\n    flags = {}\n    if not verbose:\n        flags['quiet']=1\n    for module, klass_name in com_modules:",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterPythonwin",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def RegisterPythonwin(register=True):\n    \"\"\" Add (or remove) Pythonwin to context menu for python scripts.\n        ??? Should probably also add Edit command for pys files also.\n        Also need to remove these keys on uninstall, but there's no function\n            like file_created to add registry entries to uninstall log ???\n    \"\"\"\n    import os\n    lib_dir = distutils.sysconfig.get_python_lib(plat_specific=1)\n    classes_root=get_root_hkey()\n    ## Installer executable doesn't seem to pass anything to postinstall script indicating if it's a debug build,",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_shortcuts_folder",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_shortcuts_folder():\n    if get_root_hkey()==winreg.HKEY_LOCAL_MACHINE:\n        try:\n            fldr = get_special_folder_path(\"CSIDL_COMMON_PROGRAMS\")\n        except OSError:\n            # No CSIDL_COMMON_PROGRAMS on this platform\n            fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")\n    else:\n        # non-admin install - always goes in this user's start menu.\n        fldr = get_special_folder_path(\"CSIDL_PROGRAMS\")",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "get_system_dir",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def get_system_dir():\n    import win32api # we assume this exists.\n    try:\n        import pythoncom\n        import win32process\n        from win32com.shell import shell, shellcon\n        try:\n            if win32process.IsWow64Process():\n                return shell.SHGetSpecialFolderPath(0,shellcon.CSIDL_SYSTEMX86)\n            return shell.SHGetSpecialFolderPath(0,shellcon.CSIDL_SYSTEM)",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "fixup_dbi",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def fixup_dbi():\n    # We used to have a dbi.pyd with our .pyd files, but now have a .py file.\n    # If the user didn't uninstall, they will find the .pyd which will cause\n    # problems - so handle that.\n    import win32api, win32con\n    pyd_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi.pyd\")\n    pyd_d_name = os.path.join(os.path.dirname(win32api.__file__), \"dbi_d.pyd\")\n    py_name = os.path.join(os.path.dirname(win32con.__file__), \"dbi.py\")\n    for this_pyd in (pyd_name, pyd_d_name):\n        this_dest = this_pyd + \".old\"",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "install",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def install(lib_dir):\n    import traceback\n    # The .pth file is now installed as a regular file.\n    # Create the .pth file in the site-packages dir, and use only relative paths\n    # We used to write a .pth directly to sys.prefix - clobber it.\n    if os.path.isfile(os.path.join(sys.prefix, \"pywin32.pth\")):\n        os.unlink(os.path.join(sys.prefix, \"pywin32.pth\"))\n    # The .pth may be new and therefore not loaded in this session.\n    # Setup the paths just in case.\n    for name in \"win32 win32\\\\lib Pythonwin\".split():",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "uninstall",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def uninstall(lib_dir):\n    # First ensure our system modules are loaded from pywin32_system, so\n    # we can remove the ones we copied...\n    LoadSystemModule(lib_dir, \"pywintypes\")\n    LoadSystemModule(lib_dir, \"pythoncom\")\n    try:\n        RegisterCOMObjects(False)\n    except Exception as why:\n        print(\"Failed to unregister COM objects: %s\" % (why,))\n    try:",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verify_destination",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "def verify_destination(location):\n    if not os.path.isdir(location):\n        raise argparse.ArgumentTypeError(\"Path \\\"{}\\\" does not exist!\".format(location))\n    return location\nif __name__ == '__main__':\n    import argparse\n    parser = argparse.ArgumentParser(formatter_class=argparse.RawDescriptionHelpFormatter,\n                                     description=\"\"\"A post-install script for the pywin32 extensions.\n    * Typical usage:\n    > python pywin32_postinstall.py -install",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "tee_f",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "tee_f = open(os.path.join(tempfile.gettempdir(), 'pywin32_postinstall.log'), \"w\")\nclass Tee:\n    def __init__(self, file):\n        self.f = file\n    def write(self, what):\n        if self.f is not None:\n            try:\n                self.f.write(what.replace(\"\\n\", \"\\r\\n\"))\n            except IOError:\n                pass",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stderr",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stderr = Tee(sys.stderr)\nsys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\",         \"Interpreter\"),\n    (\"win32com.servers.dictionary\",     \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\",\"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "sys.stdout",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "sys.stdout = Tee(sys.stdout)\ncom_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\",         \"Interpreter\"),\n    (\"win32com.servers.dictionary\",     \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\",\"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "com_modules",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "com_modules = [\n    # module_name,                      class_names\n    (\"win32com.servers.interp\",         \"Interpreter\"),\n    (\"win32com.servers.dictionary\",     \"DictionaryPolicy\"),\n    (\"win32com.axscript.client.pyscript\",\"PyScript\"),\n]\n# Is this a 'silent' install - ie, avoid all dialogs.\n# Different than 'verbose'\nsilent = 0\n# Verbosity of output messages.",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "silent",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "silent = 0\n# Verbosity of output messages.\nverbose = 1\nver_string = \"%d.%d\" % (sys.version_info[0], sys.version_info[1])\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + ver_string\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "verbose",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "verbose = 1\nver_string = \"%d.%d\" % (sys.version_info[0], sys.version_info[1])\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + ver_string\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "ver_string",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "ver_string = \"%d.%d\" % (sys.version_info[0], sys.version_info[1])\nroot_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + ver_string\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "root_key_name",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_postinstall",
+        "description": "env.Scripts.pywin32_postinstall",
+        "peekOfCode": "root_key_name = \"Software\\\\Python\\\\PythonCore\\\\\" + ver_string\ntry:\n    # When this script is run from inside the bdist_wininst installer,\n    # file_created() and directory_created() are additional builtin\n    # functions which write lines to Python23\\pywin32-install.log. This is\n    # a list of actions for the uninstaller, the format is inspired by what\n    # the Wise installer also creates.\n    file_created\n    is_bdist_wininst = True\nexcept NameError:",
+        "detail": "env.Scripts.pywin32_postinstall",
+        "documentation": {}
+    },
+    {
+        "label": "run_test",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_testall",
+        "description": "env.Scripts.pywin32_testall",
+        "peekOfCode": "def run_test(script, cmdline_rest=\"\"):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_rest.split()\n    print(script)\n    popen = subprocess.Popen(cmd, shell=True, cwd=dirname,\n                             stdout=subprocess.PIPE, stderr=subprocess.STDOUT)\n    data = popen.communicate()[0]\n    if sys.version_info > (3,):\n        sys.stdout.write(data.decode('latin-1'))",
+        "detail": "env.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "find_and_run",
+        "kind": 2,
+        "importPath": "env.Scripts.pywin32_testall",
+        "description": "env.Scripts.pywin32_testall",
+        "peekOfCode": "def find_and_run(possible_locations, script, cmdline_rest=\"\"):\n    for maybe in possible_locations:\n        if os.path.isfile(os.path.join(maybe, script)):\n            run_test(os.path.abspath(os.path.join(maybe, script)), cmdline_rest)\n            break\n    else:\n        raise RuntimeError(\"Failed to locate the test script '%s' in one of %s\"\n                           % (script, possible_locations))\nif __name__ == '__main__':\n    import argparse",
+        "detail": "env.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "this_dir",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_testall",
+        "description": "env.Scripts.pywin32_testall",
+        "peekOfCode": "this_dir = os.path.dirname(__file__)\nsite_packages = [site.getusersitepackages(), ] + site.getsitepackages()\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error.\ndef run_test(script, cmdline_rest=\"\"):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_rest.split()\n    print(script)\n    popen = subprocess.Popen(cmd, shell=True, cwd=dirname,",
+        "detail": "env.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "site_packages",
+        "kind": 5,
+        "importPath": "env.Scripts.pywin32_testall",
+        "description": "env.Scripts.pywin32_testall",
+        "peekOfCode": "site_packages = [site.getusersitepackages(), ] + site.getsitepackages()\n# Run a test using subprocess and wait for the result.\n# If we get an returncode != 0, we know that there was an error.\ndef run_test(script, cmdline_rest=\"\"):\n    dirname, scriptname = os.path.split(script)\n    # some tests prefer to be run from their directory.\n    cmd = [sys.executable, \"-u\", scriptname] + cmdline_rest.split()\n    print(script)\n    popen = subprocess.Popen(cmd, shell=True, cwd=dirname,\n                             stdout=subprocess.PIPE, stderr=subprocess.STDOUT)",
+        "detail": "env.Scripts.pywin32_testall",
+        "documentation": {}
+    },
+    {
+        "label": "importlib_load_entry_point",
+        "kind": 2,
+        "importPath": "env.Scripts.slugify-script",
+        "description": "env.Scripts.slugify-script",
+        "peekOfCode": "def importlib_load_entry_point(spec, group, name):\n    dist_name, _, _ = spec.partition('==')\n    matches = (\n        entry_point\n        for entry_point in distribution(dist_name).entry_points\n        if entry_point.group == group and entry_point.name == name\n    )\n    return next(matches).load()\nglobals().setdefault('load_entry_point', importlib_load_entry_point)\nif __name__ == '__main__':",
+        "detail": "env.Scripts.slugify-script",
+        "documentation": {}
+    },
+    {
+        "label": "__requires__",
+        "kind": 5,
+        "importPath": "env.Scripts.slugify-script",
+        "description": "env.Scripts.slugify-script",
+        "peekOfCode": "__requires__ = 'python-slugify==4.0.1'\ntry:\n    from importlib.metadata import distribution\nexcept ImportError:\n    try:\n        from importlib_metadata import distribution\n    except ImportError:\n        from pkg_resources import load_entry_point\ndef importlib_load_entry_point(spec, group, name):\n    dist_name, _, _ = spec.partition('==')",
+        "detail": "env.Scripts.slugify-script",
+        "documentation": {}
+    },
+    {
+        "label": "basedir",
+        "kind": 5,
+        "importPath": "extensions.logger",
+        "description": "extensions.logger",
+        "peekOfCode": "basedir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# 定位到log日志文件\nlog_path = os.path.join(basedir, 'logs')\nif not os.path.exists(log_path):\n    os.mkdir(log_path)\nlog_path_error = os.path.join(log_path, f'{time.strftime(\"%Y-%m-%d\")}_error.log')\n# 日志简单配置\nlogger.add(log_path_error, rotation=\"12:00\", retention=\"5 days\", enqueue=True)\n__all__ = [\"logger\"]",
+        "detail": "extensions.logger",
+        "documentation": {}
+    },
+    {
+        "label": "log_path",
+        "kind": 5,
+        "importPath": "extensions.logger",
+        "description": "extensions.logger",
+        "peekOfCode": "log_path = os.path.join(basedir, 'logs')\nif not os.path.exists(log_path):\n    os.mkdir(log_path)\nlog_path_error = os.path.join(log_path, f'{time.strftime(\"%Y-%m-%d\")}_error.log')\n# 日志简单配置\nlogger.add(log_path_error, rotation=\"12:00\", retention=\"5 days\", enqueue=True)\n__all__ = [\"logger\"]",
+        "detail": "extensions.logger",
+        "documentation": {}
+    },
+    {
+        "label": "log_path_error",
+        "kind": 5,
+        "importPath": "extensions.logger",
+        "description": "extensions.logger",
+        "peekOfCode": "log_path_error = os.path.join(log_path, f'{time.strftime(\"%Y-%m-%d\")}_error.log')\n# 日志简单配置\nlogger.add(log_path_error, rotation=\"12:00\", retention=\"5 days\", enqueue=True)\n__all__ = [\"logger\"]",
+        "detail": "extensions.logger",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "extensions.logger",
+        "description": "extensions.logger",
+        "peekOfCode": "__all__ = [\"logger\"]",
+        "detail": "extensions.logger",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "setting.development_config",
+        "description": "setting.development_config",
+        "peekOfCode": "class Config(BaseSettings):\n    # 文档地址\n    DOCS_URL: str = \"/api/docs\"\n    # # 文档关联请求数据接口\n    OPENAPI_URL: str = \"/api/openapi.json\"\n    # 禁用 redoc 文档\n    REDOC_URL: Optional[str] = None\n    ACCESS_TOKEN_EXPIRE_MINUTES: int = 60 * 24 * 8\n    SECRET_KEY: str = 'aeq)s(*&dWEQasd8**&^9asda_asdasd*&*&^+_sda'\n    # 配置你的Mysql环境",
+        "detail": "setting.development_config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "setting.development_config",
+        "description": "setting.development_config",
+        "peekOfCode": "config = Config()",
+        "detail": "setting.development_config",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "setting.production_config",
+        "description": "setting.production_config",
+        "peekOfCode": "class Config(BaseSettings):\n    # 文档地址 成产环境可以关闭 None\n    DOCS_URL: Optional[str] = \"/api/v1/docs\"\n    # # 文档关联请求数据接口 成产环境可以关闭 None\n    OPENAPI_URL: Optional[str] = \"/api/v1/openapi.json\"\n    # 禁用 redoc 文档\n    REDOC_URL: Optional[str] = None\n    ACCESS_TOKEN_EXPIRE_MINUTES: int = 60 * 24 * 8  # 8 天\n    SECRET_KEY: str = '-*&^)()sd(*A%&^aWEQaasda_asdasd*&*)(asd%$#'\n    MYSQL_USERNAME: str = os.getenv(\"MYSQL_USER\", \"root\")",
+        "detail": "setting.production_config",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "setting.production_config",
+        "description": "setting.production_config",
+        "peekOfCode": "config = Config()",
+        "detail": "setting.production_config",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "kind": 5,
+        "importPath": "setting.__init__",
+        "description": "setting.__init__",
+        "peekOfCode": "env = os.getenv(\"ENV\", \"\")\nif env:\n    # 如果有虚拟环境 则是 生产环境\n    print(\"----------生产环境启动------------\")\n    from .production_config import config\nelse:\n    # 没有则是开发环境\n    print(\"----------开发环境启动------------\")\n    from .development_config import config",
+        "detail": "setting.__init__",
+        "documentation": {}
+    },
+    {
+        "label": "#persister",
+        "kind": 5,
+        "importPath": "tests.dbtest",
+        "description": "tests.dbtest",
+        "peekOfCode": "#persister = Persister()\n#persister.open()\n#query = persister.query(w_node)\n#nodes = query.filter(w_node.master==False).all()\n#print len(nodes)\nfrom utils.database.DataAccess import DataAccess\ndao = DataAccess()\ndao.open()\nrows = dao.queryList(\"select * from person\")\nfor row in rows :",
+        "detail": "tests.dbtest",
+        "documentation": {}
+    },
+    {
+        "label": "#query",
+        "kind": 5,
+        "importPath": "tests.dbtest",
+        "description": "tests.dbtest",
+        "peekOfCode": "#query = persister.query(w_node)\n#nodes = query.filter(w_node.master==False).all()\n#print len(nodes)\nfrom utils.database.DataAccess import DataAccess\ndao = DataAccess()\ndao.open()\nrows = dao.queryList(\"select * from person\")\nfor row in rows :\n    print (row[0],row[1],row[2],row[3],row[4])\ndao.close()",
+        "detail": "tests.dbtest",
+        "documentation": {}
+    },
+    {
+        "label": "#nodes",
+        "kind": 5,
+        "importPath": "tests.dbtest",
+        "description": "tests.dbtest",
+        "peekOfCode": "#nodes = query.filter(w_node.master==False).all()\n#print len(nodes)\nfrom utils.database.DataAccess import DataAccess\ndao = DataAccess()\ndao.open()\nrows = dao.queryList(\"select * from person\")\nfor row in rows :\n    print (row[0],row[1],row[2],row[3],row[4])\ndao.close()\n#persister.close()",
+        "detail": "tests.dbtest",
+        "documentation": {}
+    },
+    {
+        "label": "dao",
+        "kind": 5,
+        "importPath": "tests.dbtest",
+        "description": "tests.dbtest",
+        "peekOfCode": "dao = DataAccess()\ndao.open()\nrows = dao.queryList(\"select * from person\")\nfor row in rows :\n    print (row[0],row[1],row[2],row[3],row[4])\ndao.close()\n#persister.close()",
+        "detail": "tests.dbtest",
+        "documentation": {}
+    },
+    {
+        "label": "rows",
+        "kind": 5,
+        "importPath": "tests.dbtest",
+        "description": "tests.dbtest",
+        "peekOfCode": "rows = dao.queryList(\"select * from person\")\nfor row in rows :\n    print (row[0],row[1],row[2],row[3],row[4])\ndao.close()\n#persister.close()",
+        "detail": "tests.dbtest",
+        "documentation": {}
+    },
+    {
+        "label": "rows",
+        "kind": 5,
+        "importPath": "tests.TestConfig",
+        "description": "tests.TestConfig",
+        "peekOfCode": "rows = dao.queryList(\"select * from person\")\nfor row in rows :\n    print (row[0],row[1],row[2],row[3],row[4])\ndao.close()",
+        "detail": "tests.TestConfig",
+        "documentation": {}
+    },
+    {
+        "label": "testviews",
+        "kind": 6,
+        "importPath": "tests.testviews",
+        "description": "tests.testviews",
+        "peekOfCode": "class testviews():\n    @FastAPI.get(\"/test1\", summary=\"测试1\")\n    def Test2():\n        return {\"data\": \"1\", \"Person\": \"周杰伦\"}\napp = FastAPI()\ntest = testviews(app)\n@app.get(\"/test\", summary=\"测试\")\ndef Test():\n    return {\"data\": \"1\", \"Person\": \"周杰伦\"}\nif __name__ == \"__main__\":",
+        "detail": "tests.testviews",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "kind": 2,
+        "importPath": "tests.testviews",
+        "description": "tests.testviews",
+        "peekOfCode": "def Test():\n    return {\"data\": \"1\", \"Person\": \"周杰伦\"}\nif __name__ == \"__main__\":\n    uvicorn.run(app='testviews:app',\n                host=\"127.0.0.1\",\n                port=3333,\n                reload=True,\n                debug=True)",
+        "detail": "tests.testviews",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "tests.testviews",
+        "description": "tests.testviews",
+        "peekOfCode": "app = FastAPI()\ntest = testviews(app)\n@app.get(\"/test\", summary=\"测试\")\ndef Test():\n    return {\"data\": \"1\", \"Person\": \"周杰伦\"}\nif __name__ == \"__main__\":\n    uvicorn.run(app='testviews:app',\n                host=\"127.0.0.1\",\n                port=3333,\n                reload=True,",
+        "detail": "tests.testviews",
+        "documentation": {}
+    },
+    {
+        "label": "test",
+        "kind": 5,
+        "importPath": "tests.testviews",
+        "description": "tests.testviews",
+        "peekOfCode": "test = testviews(app)\n@app.get(\"/test\", summary=\"测试\")\ndef Test():\n    return {\"data\": \"1\", \"Person\": \"周杰伦\"}\nif __name__ == \"__main__\":\n    uvicorn.run(app='testviews:app',\n                host=\"127.0.0.1\",\n                port=3333,\n                reload=True,\n                debug=True)",
+        "detail": "tests.testviews",
+        "documentation": {}
+    },
+    {
+        "label": "dbConfig",
+        "kind": 6,
+        "importPath": "utils.database.configuration",
+        "description": "utils.database.configuration",
+        "peekOfCode": "class dbConfig():\n    host=\"127.0.0.1\"\n    port=3306\n    user=\"root\"\n    pwd=\"admin\"\n    db=\"peppa\"\n    def __init__(self):\n        ini=uINI()\n        if ini.has_Section(\"database\"):\n            self.host=ini.getSection(\"database\",\"host\")",
+        "detail": "utils.database.configuration",
+        "documentation": {}
+    },
+    {
+        "label": "DataAccess",
+        "kind": 6,
+        "importPath": "utils.database.DataAccess",
+        "description": "utils.database.DataAccess",
+        "peekOfCode": "class DataAccess():\n    conn = None\n    cursor = None\n    isClosed = True\n    configuration=CF()\n    #def __init__(self):\n    #    print(self.configuration)\n    #def open(self,host=self.configuration.host,port=self.configuration.port,db=self.configuration.db,user=self.configuration.user,pwd=self.configuration.pwd) :\n    #    self.conn = pymysql.connect(host=host,port=port,db=db,user=user,passwd=pwd,charset=\"utf8\")\n    #    self.cursor = self.conn.cursor()",
+        "detail": "utils.database.DataAccess",
+        "documentation": {}
+    },
+    {
+        "label": "Persister",
+        "kind": 6,
+        "importPath": "utils.database.Persister",
+        "description": "utils.database.Persister",
+        "peekOfCode": "class Persister(object):\n    session = None;\n    isClosed = True;\n    def open(self,host=configuration.host,port=configuration.port,db=configuration.db,user=configuration.user,pwd=configuration.pwd) :\n        url = 'mysql+mysqlconnector://%s:%s@%s:%d/%s' % (user,pwd,host,port,db)\n        engine = create_engine(url)\n        DbSession = sessionmaker(bind=engine)\n        self.session = DbSession()\n        self.isClosed = False\n        return self.session",
+        "detail": "utils.database.Persister",
+        "documentation": {}
+    },
+    {
+        "label": "DbUtil",
+        "kind": 6,
+        "importPath": "utils.DbUtil",
+        "description": "utils.DbUtil",
+        "peekOfCode": "class DbUtil:\n    def get_session(self, bind='admin'):\n        engine = db.get_engine(app=db.get_app(), bind=bind)\n        Session = sessionmaker(bind=engine)\n        return Session()\n    @contextmanager\n    def auto_commit(self, bind='admin'):\n        try:\n            self.session = self.get_session(bind=bind)\n            yield",
+        "detail": "utils.DbUtil",
+        "documentation": {}
+    },
+    {
+        "label": "uINI",
+        "kind": 6,
+        "importPath": "utils.uINI",
+        "description": "utils.uINI",
+        "peekOfCode": "class uINI():\n    DefaultPath:str=None\n    def __init__(self, path: str = None):\n        self.basepath=os.path.dirname(os.getcwd())\n        if path:\n            uINI.DefaultPath = os.path.join(self.basepath,path)\n        else:\n            uINI.DefaultPath = os.path.join(self.basepath,\"config.ini\")\n    def getSection(self, key: str, item: str):\n        rc = ConfigParser()",
+        "detail": "utils.uINI",
+        "documentation": {}
+    },
+    {
+        "label": "#value",
+        "kind": 5,
+        "importPath": "utils.uINI",
+        "description": "utils.uINI",
+        "peekOfCode": "#value = config.get('select','url')\n#print('第二种方法读取到的值：',value)",
+        "detail": "utils.uINI",
+        "documentation": {}
+    },
+    {
+        "label": "INI",
+        "kind": 5,
+        "importPath": "utils.__init__",
+        "description": "utils.__init__",
+        "peekOfCode": "INI = uINI()",
+        "detail": "utils.__init__",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "runserver",
+        "description": "runserver",
+        "peekOfCode": "app = create_app()\nif __name__ == \"__main__\":\n    import uvicorn\n    uvicorn.run(app='main:app', host=\"127.0.0.1\", port=8010, reload=True, debug=True)",
+        "detail": "runserver",
+        "documentation": {}
+    }
+]

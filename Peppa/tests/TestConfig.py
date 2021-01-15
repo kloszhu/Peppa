@@ -21,6 +21,6 @@ dao.open()
 
 rows = dao.queryList("select * from person")
 for row in rows :
-    print (row[0],row[1],row[2],row[3],row[4])
+    print (row[0],row[1],row[2],row[3])
 
 dao.close()

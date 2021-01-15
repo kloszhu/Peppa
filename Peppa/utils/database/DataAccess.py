@@ -19,7 +19,7 @@ class DataAccess():
     #    self.isClosed = False
     def open(self) :
         print(self.configuration.host)
-        self.conn = pymysql.connect(host=self.configuration.host,port=self.configuration.port,db=self.configuration.db,user=self.configuration.user,passwd=self.configuration.pwd,charset="utf8")
+        self.conn = pymysql.connect(host=self.configuration.host,port=int(self.configuration.port),db=self.configuration.db,user=self.configuration.user,passwd=self.configuration.pwd,charset="utf8")
         self.cursor = self.conn.cursor()
         self.isClosed = False
 

@@ -1685,7 +1685,7 @@
         "kind": 5,
         "importPath": "tests.TestConfig",
         "description": "tests.TestConfig",
-        "peekOfCode": "rows = dao.queryList(\"select * from person\")\nfor row in rows :\n    print (row[0],row[1],row[2],row[3],row[4])\ndao.close()",
+        "peekOfCode": "rows = dao.queryList(\"select * from person\")\nfor row in rows :\n    print (row[0],row[1],row[2],row[3])\ndao.close()",
         "detail": "tests.TestConfig",
         "documentation": {}
     },
